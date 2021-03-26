@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xcellentbird
-- 👀 I’m interested in Computer Vision, Camera, Image Processing, Embedded Linux System, ML, DL, Android
-- 🌱 I’m currently learning Machine Learning, Vision Learning, Web, Android, Operating System
+- 👀 I’m interested in Deep Learning, Computer Vision, Camera, Image Processing, Embedded Linux System
+- 🌱 I’m currently learning Deep Learning, Operating System, Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kdggdk7984@naver.com
 
