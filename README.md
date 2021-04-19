@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xcellentbird
-- 👀 I’m interested in Deep Learning, Computer Vision, Camera, Image Processing, Color, UX, Android, iOS
+- 👀 I’m interested in Vision Machine, Camera, Color + DL, UX + DL, DL on Android, iOS
 - 🌱 I’m currently learning Deep Learning, OCR
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kdggdk7984@naver.com
