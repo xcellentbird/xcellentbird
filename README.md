@@ -2,7 +2,7 @@
 - 👀 I’m interested in *Vision, AI on Edge Machine(Android, iOS)*
 - 🌱 I’m currently learning *Machine Learning, Deep Learning, React Native*
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me *kdggdk7984@naver.com* or *xcellentbird@gmail.com*
+- 📫 How to reach me *kdggdk7984@naver.com* | *xcellentbird@gmail.com*
 
 <!---
 xcellentbird/xcellentbird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
