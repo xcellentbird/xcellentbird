@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xcellentbird
-- 👀 I’m interested in *Vision, AI on Edge Devices(Android)*
+- 👀 I’m interested in *Vision, AI on Edge Device(Android)*
 - 🌱 I’m currently learning *Machine Learning, Deep Learning, React Native*
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me *kdggdk7984@naver.com*
