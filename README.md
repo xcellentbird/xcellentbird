@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xcellentbird
-- 👀 I’m interested in *Vision, Edge AI*
-- 🌱 I’m currently learning *Machine Learning, Deep Learning*
+- 👀 I’m interested in *Vision, Edge AI, MLOps*
+- 🌱 I’m currently learning *Machine Learning, Deep Learning, Django*
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me *kdggdk7984@naver.com*
 
