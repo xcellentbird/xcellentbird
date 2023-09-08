@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xcellentbird
-- 👀 I’m interested in *Data Engineering, MLOps*
-- 🌱 I’m currently learning *Hadoop, Spark, Ray*
+- 👋 Hi, I’m Michael Kim @xcellentbird
+- 👀 I’m interested in *Data Engineering, MLOps, LLM*
+- 🌱 I’m currently learning *Ray, LangChain, Prompt Engineering*
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me *kdggdk7984@naver.com*
+- 📫 How to reach me *xcellentbird@gmail.com*
 
 <!---
 xcellentbird/xcellentbird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
