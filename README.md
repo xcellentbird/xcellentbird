@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Kim @xcellentbird
-- 👀 I’m interested in *Data Engineering, MLOps, LLM*
-- 🌱 I’m currently learning *Ray, LangChain, Prompt Engineering*
+- 👀 I’m interested in *MLOps, LLM*
+- 🌱 I’m currently learning *NLP*
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me *xcellentbird@gmail.com*
 
